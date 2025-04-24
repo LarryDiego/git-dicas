@@ -6,3 +6,10 @@ EMPRESA: SMN TECNOLOGIA DA INFORMAÇÃO
 EXPERIÊNCIA: 3 anos
 HABILIDADES: C#, ASP.NET, SQL Server, Azure, Git, Engenharia de Requisitos, HTML, CSS, JS, Modelagem de Dados, Figma UI/UX, Gestão de Projetos
 IDIOMAS: Inglês (Intermediário)
+
+NOME: Larry Diego Ferreira de Oliveira
+CARGO: Desenvolvedor
+EMPRESA: SMN TECNOLOGIA DA INFORMAÇÃO
+EXPERIÊNCIA: 3 anos
+HABILIDADES: C#, ASP.NET, SQL Server, Azure, Git, Engenharia de Requisitos, HTML, CSS, JS, Modelagem de Dados, Figma UI/UX, Gestão de Projetos
+IDIOMAS: Inglês (Intermediário)
