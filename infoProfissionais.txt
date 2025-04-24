@@ -1,8 +1,13 @@
 ##################### INFORMAÇÕES PROFISSIONAIS #####################
 
 NOME: Matheus Sousa do Nascimento
-CARGO: Analista de Negócios
+CARGO: Analistajflskdjflsdkjfsd
+lasdkdasljkdsajkl de Negócios
 EMPRESA: SMN TECNOLOGIA DA INFORMAÇÃO
 EXPERIÊNCIA: 3 anos
-HABILIDADES: C#, ASP.NET, SQL Server, Azure, Git, Engenharia de Requisitos, HTML, CSS, JS, Modelagem de Dados, Figma UI/UX, Gestão de Projetos
+HABILIDADES: C#, ASflskfsdlkfsdljkfsd
+sfjlkdjsdlfkfjklds
+P.NET, SQL Server, Azure, Git, Engenharia de Requisitos, HTML, CSS, JS, Modelagem de Dados, Figma UI/UX, Gestão de Projetos
 IDIOMAS: Inglês (Intermediário)
+
+dshkajdhsakjdsa
